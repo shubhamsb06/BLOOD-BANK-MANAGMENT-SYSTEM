@@ -1,0 +1,39 @@
+body{
+        
+}
+h2{
+    text-align: center;
+    color: brown;
+    font-weight: bold;
+}
+.con{
+    margin:  -11px 273px;
+    background-color: blanchedalmond;
+    border: 2px solid rgb(105, 103, 98);
+    border-radius: 5px;
+    
+    
+}
+.form-group{
+    margin:-2px 18px;
+    padding: 11px 26px;
+    color:cadetblue;
+}
+.btn btn-success btn-default{
+    text-align: center;
+    margin:auto;
+    size: 10px;
+
+}
+.form-control{
+    margin: 10px 20px;
+padding: 9px 26px;
+width: 239px;
+height: 14px;
+    
+}
+.hun{
+    margin:10px 20px;  
+    display: block;
+
+}
